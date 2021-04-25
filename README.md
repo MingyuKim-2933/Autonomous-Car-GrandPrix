@@ -6,4 +6,4 @@
 
 자이트론의 Xycar A2(자동차의 1/10 Scale)를 사용해 교내 주행트랙에서 신호등, 갈림길 등 미션을 수행하며 완주합니다.
 
-실행 파일: autodrive.launch
+실행 파일: ```autodrive.launch```
